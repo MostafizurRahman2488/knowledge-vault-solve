@@ -189,3 +189,34 @@ nav ul {
     font-size: 40px;
     font-weight: bold;
 }
+
+/* footer style  */
+footer {
+    width: 100%;
+    max-width: 1600px;
+    margin: 0 auto;
+    background-color: black;
+}
+
+.foot-content {
+    /* background-color: red; */
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 1360px;
+    margin: 0 auto;
+    padding: 120px 0;
+}
+
+.small {
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+
+}
+
+hr {
+    max-width: 1360px;
+    width: 100%;
+    margin: 0 auto;
+}
