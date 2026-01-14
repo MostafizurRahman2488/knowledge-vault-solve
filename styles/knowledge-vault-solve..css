@@ -151,3 +151,26 @@ nav ul {
     font-size: 48px;
     font-weight: bold;
 }
+
+/* brain section style  */
+.brain {
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    text-align: left;
+    /* border: 1px solid red; */
+    max-width: 1360px;
+    width: 100%;
+    margin: 0 auto;
+
+}
+
+.brain-image {
+    width: 600px;
+    height: 600px;
+}
+
+.b-title {
+    font-weight: 500;
+    color: #30B868;
+}
